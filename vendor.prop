@@ -278,12 +278,6 @@ sys.haptic.runin=13
 ro.hardware.wechat=beanpod
 ro.mtk_soter_support=1
 
-# LMK
-ro.lmk.kill_timeout_ms=100
-ro.lmk.psi_complete_stall_ms=150
-ro.lmk.swap_free_low_percentage=20
-ro.lmk.swap_util_max=90
-
 # GPS
 ro.vendor.gps.chrdev=gps_drv
 ro.vendor.mtk_agps_app=1
