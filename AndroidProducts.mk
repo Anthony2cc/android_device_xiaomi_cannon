@@ -5,9 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cannon.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_cannon-user \
-    lineage_cannon-userdebug \
-    lineage_cannon-eng
+    $(LOCAL_DIR)/aosp_cannon.mk
